@@ -53,5 +53,5 @@ python main.py -i your_audio_sample.wav
 ## 👨‍💻 Author
 
 **Muhammad Mishbahul Muflihin** *Information Technology Student | Darussalam Gontor University* 
-
----
+<br>
+ Email: [mishbahulmuflihin@gmail.com](mailto:mishbahulmuflihin@gmail.com)
